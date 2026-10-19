@@ -121,7 +121,7 @@ If your application uses a `.env` file, create it locally using the variable nam
 
 ## 👨‍💻 Author
 
-**Shaadan Akthar**
+**Ibrahim Shaadan Akthar**
 
 GitHub: [@shaadanakthar](https://github.com/shaadanakthar)
 
